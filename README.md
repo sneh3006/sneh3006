@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sneh3006
 - 👀 I’m interested in computer programing
-- 🌱 I’m currently learning oops 
-- 💞️ I’m looking to collaborate on c++ project
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Anroid development 
 - 📫 How to reach me : mail me @snehmegh3006@gmail.com
 
 <!---
