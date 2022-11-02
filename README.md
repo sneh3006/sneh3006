@@ -1,5 +1,5 @@
 # 💫 About Me:
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi, I’m Sneh Jani @sneh3006<br>- 👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently learning MURN Stack<br>- 💞️ I’m looking to collaborate on MURN Stack Projects<br>- 💻 I'm also learning Redhat OS <br>- 📫 How to reach me : mail me @snehmegh3006@gmail.com<br><br>
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi, I’m Sneh Jani @sneh3006<br>- 👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently learning MERN Stack<br>- 💞️ I’m looking to collaborate on MERN Stack Projects<br>- 💻 I'm also learning Redhat OS <br>- 📫 How to reach me : mail me @snehmegh3006@gmail.com<br><br>
 
 
 ## 🌐 Socials:
