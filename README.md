@@ -12,9 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sneh3006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sneh3006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br>
-[![](https://visitcount.itsvg.in/api?id=sneh3006&icon=0&color=1)](https://visitcount.itsvg.in)
-<br>
+
 
 
 
